@@ -12,3 +12,7 @@ color:
     - '#FFFFFF'
     - '#FF9800'
 name: No Soup For You
+navigation:
+  - name: Instagram
+    url: www.instagram.com/nosoupforyoublog
+    type: external
