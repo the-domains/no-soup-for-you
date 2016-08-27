@@ -12,3 +12,7 @@ color:
     - '#FFFFFF'
     - '#FF9800'
 name: No Soup For You
+navigation:
+  - name: MUCHACHAS
+    id: eb8343a6-26b1-46fb-84a7-b60d58e1d0bc
+    type: content
