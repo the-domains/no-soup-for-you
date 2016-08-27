@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-08-26T19:45:32.715Z'
+datePublished: '2016-08-26T19:52:05.090Z'
 sourcePath: _posts/2016-08-26-muchachas.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-26T19:45:31.910Z'
+dateModified: '2016-08-26T19:52:04.198Z'
 title: MUCHACHAS
 publisher: {}
 description: TEST TEST TEST
+hasPage: true
 starred: false
-_type: Blurb
+url: muchachas/index.html
+_type: Article
 
 ---
 # MUCHACHAS
